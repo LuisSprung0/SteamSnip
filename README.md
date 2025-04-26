@@ -25,6 +25,7 @@
 
 - Download the latest release
 - Unzip the file
+- Read the README for instructions
 - Make sure the SteamSnip is in administrator mode when opening
 - Trust the publisher (me)
 - Snip Away!
