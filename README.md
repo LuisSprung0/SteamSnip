@@ -4,7 +4,7 @@
 
 #### SteamSnip is a lightweight tool that blocks or unblocks Steam from the firewall with a single click. 
 ### *It can also be used to bypass Steam Family Sharing restrictions.
-
+(educational use)
 
 ## Features
 
